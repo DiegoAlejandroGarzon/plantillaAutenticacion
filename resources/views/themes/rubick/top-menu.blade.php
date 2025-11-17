@@ -23,7 +23,7 @@
                         src="{{ Vite::asset('resources/images/logo.svg') }}"
                         alt="Midone - Tailwind Admin Dashboard Template"
                     />
-                    <span class="ml-3 text-lg text-white"> AgendaPlus </span>
+                    <span class="ml-3 text-lg text-white"> nombreSoftware </span>
                 </a>
                 <!-- END: Logo -->
                 <!-- BEGIN: Breadcrumb -->
